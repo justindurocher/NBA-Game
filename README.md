@@ -2,6 +2,8 @@
 
 A Javascript Basektball Game for fun! Pick your five favorite players!
 
+[PLAY HERE](https://justindurocher.github.io/NBA-Game/public)
+
 <img src="public/assets/img/homePage.PNG" alt="Home Page">
 
 <img src="public/assets/img/game.PNG" alt="NBA Game">
