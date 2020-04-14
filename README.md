@@ -1,6 +1,6 @@
 # NBA-Game
 
-A Javascript Basektball Game for fun! Pick your five favorite players!
+A Javascript Basektball Game for fun! Pick from all of your favorite basketball players in the NBA!
 
 [PLAY HERE](https://justindurocher.github.io/NBA-Game/public)
 
