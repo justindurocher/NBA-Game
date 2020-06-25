@@ -4,7 +4,7 @@
 
 <h1>Installation</h1>
     
-<p>With creating this application, two groupmates first created a mySql database from scratch. This database contained the five starting players from each team in the National Baskbetball Association. One other groupmate worked on creating the homepage (frontend and backend), while another worked on the baskbetball game (frontend and backend). These two pages are created with HTML, CSS, BootStrap, and JavaScript (jQuery). </p>
+<p>With creating this application, two groupmates built a mySql database from scratch. This database contained the five starting players from each team in the National Baskbetball Association. One other groupmate worked on creating the home page (frontend and backend), while another worked on the baskbetball game (frontend and backend). These two pages are created with HTML, CSS, BootStrap, and JavaScript (jQuery). </p>
 
 <h1>Usage</h1>
 
@@ -12,6 +12,21 @@
 
 <img src="public/assets/img/homePage.PNG" alt="screenshot">
 <img src="public/assets/img/game.PNG" alt="screenshot2">
+
+<h1>Contributors</h1>
+<h3>Database and Backend</h3>
+<ul>
+    <li>Github: Jalabre </li>
+    <li>Github: ramalimanov </li>
+</ul>
+<h3>Home Page (Frontend and Backend)</h3>
+<ul>
+    <li>Github: dameonc13 </li>
+</ul>
+<h3>Basketball Game (Frontend and Backend)</h3>
+<ul>
+    <li>Github: justindurocher </li>
+</ul>
 <h1>Credits</h1>
 <ul>
     <li>www.youtube.com</li>
