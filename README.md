@@ -1,7 +1,8 @@
 # NBA JavaScript Game
-<h1>Installation</h1>
 
 <h3><---------- Laptop Only ----------></h3>
+
+<h1>Installation</h1>
     
 <p>With creating this application, two groupmates first created a mySql database from scratch. This database contained the five starting players from each team in the National Baskbetball Association. One other groupmate worked on creating the homepage (frontend and backend), while another worked on the baskbetball game (frontend and backend). These two pages are created with HTML, CSS, BootStrap, and JavaScript (jQuery). </p>
 
