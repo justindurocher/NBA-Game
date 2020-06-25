@@ -15,10 +15,11 @@
 <h1>Credits</h1>
 <ul>
     <li>www.youtube.com</li>
-    <l1>www.github.com</li>
+    <li>www.github.com</li>
     <li>www.gitlab.com</li>
     <li>www.google.com</li>
     <li>www.stackoverflow.com</li>
     <li>Visual Studio Code</li>
+    <li>RapidApi</li>
 </ul>
 
