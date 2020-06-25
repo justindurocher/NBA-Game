@@ -4,7 +4,7 @@
 
 <h1>Installation</h1>
     
-<p>With creating this application, two groupmates built a mySql database from scratch. This database contained the five starting players from each team in the National Baskbetball Association. One other groupmate worked on creating the home page (frontend and backend), while another worked on the baskbetball game (frontend and backend). These two pages are created with HTML, CSS, BootStrap, and JavaScript (jQuery). </p>
+<p>With creating this application, two groupmates built a mySql database from scratch. This database contained the 32 teams in the National Basketball association. These two then found an API from RapidApi.com and used data that shows all of the most famous players that ever played on each team. Meanwhile, one other groupmate worked on creating the home page (frontend and backend), while another worked on the baskbetball game (frontend and backend). These two pages are created with HTML, CSS, BootStrap, and JavaScript (jQuery). </p>
 
 <h1>Usage</h1>
 
